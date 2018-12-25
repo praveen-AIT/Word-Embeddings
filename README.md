@@ -301,8 +301,3 @@ Skip-gram with negative sub-sampling outperforms every other method generally.
  
 
 This is an excellent interactive tool to visualise CBOW and skip gram in action. I would suggest you to really go through this link for a better understanding.
-
-![alt_text]()
-
-
-![alt_text]()
